@@ -1,0 +1,135 @@
+[
+	{
+		"model": "api.genre",
+		"pk": 1,
+		"fields": {
+			"name": "드라마"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 2,
+		"fields": {
+			"name": "스릴러"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 3,
+		"fields": {
+			"name": "애니메이션"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 4,
+		"fields": {
+			"name": "액션"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 5,
+		"fields": {
+			"name": "가족"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 6,
+		"fields": {
+			"name": "판타지"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 7,
+		"fields": {
+			"name": "미스터리"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 8,
+		"fields": {
+			"name": "어드벤처"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 9,
+		"fields": {
+			"name": "SF"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 10,
+		"fields": {
+			"name": "코미디"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 11,
+		"fields": {
+			"name": "범죄"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 12,
+		"fields": {
+			"name": "공연"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 13,
+		"fields": {
+			"name": "멜로/로맨스"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 14,
+		"fields": {
+			"name": "공포(호러)"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 15,
+		"fields": {
+			"name": "뮤지컬"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 16,
+		"fields": {
+			"name": "다큐멘터리"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 17,
+		"fields": {
+			"name": "전쟁"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 18,
+		"fields": {
+			"name": "기타"
+		}
+	},
+	{
+		"model": "api.genre",
+		"pk": 19,
+		"fields": {
+			"name": "사극"
+		}
+	}
+]
